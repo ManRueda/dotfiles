@@ -13,7 +13,7 @@ zsh $PWD/ubuntu/robomongo.zsh
 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 
 # java
-sudo apt-get install openjdk-7-jdk -y
+sudo apt-get install openjdk-8-jdk -y
 
 # phantom
 sudo apt-get install phantomjs

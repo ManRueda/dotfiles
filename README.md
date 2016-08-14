@@ -7,7 +7,7 @@ For a complete feature list, check out [FEATURES.md][1]
 # Install On OSX
 
 ```shell
-git clone --depth 1 https://github.com/bevacqua/dotfiles.git ~/.dotfiles && sudo zsh ~/.dotfiles/osx.zsh
+git clone --depth 1 https://github.com/manrueda/dotfiles.git ~/.dotfiles && sudo zsh ~/.dotfiles/osx.zsh
 ```
 
 ![shell-osx.png][4]
@@ -41,6 +41,6 @@ sudo zsh ./ubuntu.zsh
 MIT
 
 [1]: FEATURES.md
-[2]: https://raw.github.com/bevacqua/dotfiles/master/images/ubuntu.png
+[2]: https://raw.github.com/manrueda/dotfiles/master/images/ubuntu.png
 [3]: https://sublime.wbond.net/
-[4]: https://raw.github.com/bevacqua/dotfiles/master/images/osx.png
+[4]: https://raw.github.com/manrueda/dotfiles/master/images/osx.png

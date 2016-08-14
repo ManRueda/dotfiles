@@ -44,6 +44,10 @@ ln -sfn $PWD/st3/preferences ~/.config/sublime-text-3/Packages/User/Preferences.
 # st3 package control plugin
 curl https://sublime.wbond.net/Package%20Control.sublime-package -o ~/.config/sublime-text-3/Installed\ Packages/Package\ Control.sublime-package
 
+# Atom.io
+curl -L https://atom.io/download/deb > ~/atom-last.deb
+sudo dpkg -i ~/atom-last.deb
+
 # run OS-free scripts
 zsh $PWD/installation/universal.zsh
 

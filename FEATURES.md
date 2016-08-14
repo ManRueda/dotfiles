@@ -76,7 +76,7 @@ This project sets up a bunch of tools and frameworks for you to hack on, includi
 ## Day-to-day communication and awesomeness
 
 - Google Chrome
-- HipChat
+- Google Chrome (Beta)
 - Skype
 - IRC Client
     - [`xchat`](https://apps.ubuntu.com/cat/applications/precise/xchat/) on Ubuntu
